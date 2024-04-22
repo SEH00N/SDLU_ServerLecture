@@ -17,7 +17,7 @@
 |네트워크 기초 지식|소켓 프로그래밍 실습|멀티 스레딩 기초|네트워크 프레임워크 제작|네트워크 프레임워크 제작|유니티 연동|나만의 게임 개발|
 |소켓 프로그래밍 이론|멀티 스레딩 이론|멀티 스레딩 실습<br/>(비동기 에코 서버)|-|서버 최적화 기법<br/>구조 리펙토링|-|-|
 
-[비고](https://github.com/SEH00N/SDLU/blob/main/ServerLecture/%EB%8F%99%EC%95%84%EB%A6%AC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.md#%EB%B9%84%EA%B3%A0)
+[비고](https://github.com/SEH00N/SDLU_ServerLecture?tab=readme-ov-file#%EB%B9%84%EA%B3%A0)
 
 ## 첫번째 주
 ### 2023년 8월 23일 수요일

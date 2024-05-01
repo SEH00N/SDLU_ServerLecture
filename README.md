@@ -268,11 +268,11 @@ JobQueue
 
 [7강 네트워크 프레임워크 활용 스크립트](./PT/7강%20네트워크%20프레임워크%20활용.md)
 
-[7강 실습 소스코드 ( 패킷 )](./MyGame/Server/Packets/PacketID.cs)
+[7강 실습 소스코드 ( 패킷 )](./MyGame/ThisIsMove_Server/Packets/PacketID.cs)
 
-[7강 실습 소스코드 ( 클라이언트 )](./MyGame/ThisIsMove/Assets/01.%20Scripts/)
+[7강 실습 소스코드 ( 클라이언트 )](./MyGame/ThisIsMove/Assets/01.%20Scripts)
 
-[7강 실습 소스코드 ( 서버 )](./MyGame/Server/Server/Program.cs)
+[7강 실습 소스코드 ( 서버 )](./MyGame/ThisIsMove_Server/Server/Program.cs)
 
 ![](./PT/Image/This%20Is%20Move.gif)
 
